@@ -1,0 +1,11 @@
+table
+{
+    border: 4px double black;
+    border-style: outset;
+    border-collapse: separate;
+}
+
+th, tr
+{
+    border-style: inset;
+}
